@@ -18,7 +18,7 @@ screen = pygame.display.set_mode((screen_width, screen_hight))
 screen_w, screen_h = pygame.display.get_surface().get_size()
 
 #font/tick
-clock = pygame.time.Clock()z
+clock = pygame.time.Clock()
 font = pygame.font.SysFont("arial bold", 35)
 big_font = pygame.font.SysFont("arial", 50)
 small_font = pygame.font.SysFont("arial", 20)
